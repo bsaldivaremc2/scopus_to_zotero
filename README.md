@@ -13,7 +13,7 @@ and make sure that you get the same output.
 
 ## How to use
 to execute the script you need to give as argument the csv file
-`*./scopus_to_zotero.sh* your_file_from_scopus.csv`
+`./scopus_to_zotero.sh your_file_from_scopus.csv`
 
 Some other restrictions:
 It only works with journals, not yet for conference papers.
